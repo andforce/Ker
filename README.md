@@ -2,6 +2,8 @@
 
 上传任意尺寸的 iPhone 截图，套上手机外壳与精美背景，导出符合 App Store Connect 尺寸要求的宣传图。全部在浏览器本地完成，截图不会上传。
 
+在线使用：https://ker-ten-ebon.vercel.app/
+
 ## 功能
 
 - **拖拽上传** — 支持批量导入 PNG/JPG 截图，任意 iPhone 尺寸均可
